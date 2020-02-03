@@ -10,6 +10,7 @@ function App() {
         </h1>
         <p class="subtitle">
           My first website with <strong>Bulma</strong>!
+          Isn't she pretty?
         </p>
       </div>
     </section>
